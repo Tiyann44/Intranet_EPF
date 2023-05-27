@@ -32,12 +32,14 @@ De nombreuses actions d'optimisation, protection, visibilité... peuvent être r
 	- Page de mentions légales / CGU avec toutes les informations nécessaires pour respecter le cadre légal
 	- Page de contacts / crédits (personnes ayant participés au projet)
 <br>
+
 - Système de communication entre les différents groupes ou personnes
 	- Incluant les discussions de groupe de promos, comme les discussions individuelles entre élèves
 	- Possibilité de créer des groupes avec les élèves que l'on souhaite.
 	- Possibilité d'envoyer des fichiers (avec un système plus adapté au transfert de fichier que messenger.)
 	- Echanges chiffrés et sécurisés.
 <br>
+
 - Site d'association pour IPN Jr :
 	- Site web :
 		- la page principale descriptive de l'association
