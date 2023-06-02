@@ -68,5 +68,6 @@ De nombreuses actions d'optimisation, protection, visibilité... peuvent être r
 - Tests de sécurité
 <br>
 
-## ** notion duplicata**
+## **notion duplicata**
+
 https://topaz-tomato-182.notion.site/Conception-d-un-Intranet-Associations-EPF-e58af43baeb0433c808817f358e5258f?pvs=4
